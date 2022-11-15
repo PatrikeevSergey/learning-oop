@@ -7,7 +7,7 @@
 </head>
 <body>
 	<?php 
-		require_once './include/practic/use_classes/arr.php';
+		require_once './include/practic/use_classes/product1.php';
 		//require_once './classes/use_classes/arr3.php';
 	?>
 </body>
