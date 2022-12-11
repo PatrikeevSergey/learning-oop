@@ -8,7 +8,7 @@
 <body>
 	<?php 
 		//require_once './trait/practic/use_classes/lesson49.php';
-		require_once './trait/teory/use_classes/lesson49.php';
+		require_once './trait/teory/use_classes/lesson50.php';
 	?>
 </body>
 </html>
