@@ -7,8 +7,8 @@
 </head>
 <body>
 	<?php 
-		require_once './magic/practic/use_classes/lesson53.php';
-		//require_once './magic/teory/use_classes/lesson53.php';
+		//require_once './classes/practic/use_classes/lesson56.php';
+		require_once './classes/teory/use_classes/lesson56.php';
 	?>
 </body>
 </html>
